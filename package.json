@@ -1,0 +1,34 @@
+{
+  "name": "country-codes",
+  "version": "0.0.1",
+  "description": "Find country codes, country phone codes, ISO2 and ISO3 letter codes of countries",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "sripaulgit/country-codes",
+  "engines": {
+	    "node": ">=0.10.0"
+	  },
+  "dependencies": {
+	"collections":"*",
+	"assert":"*"
+  },
+  "devDependencies":{
+	"mocha":"~1.21.4"  
+  },
+  "keywords": [
+    "country",
+    "codes",
+    "phone code",
+    "ISO country",
+    "ISO2",
+    "ISO3",
+    "country code"
+  ],
+  "author": {
+	    "name": "Sripaul Asokan",
+	    "email": "sripaulca@outlook.com"
+  },
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
