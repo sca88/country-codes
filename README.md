@@ -11,12 +11,25 @@ Exposes the below APIs:
 
 Version
 ----
-0.0.1
+0.0.2
 
 Installation
 --------------
 ```sh
 npm install countrycodes
+```
+Examples
+-----
+```sh
+CountryCodes.getCountry('India') > {"countryName":"India","iso2":"IN","iso3":"IND","phoneCode":"91"}
+CountryCodes.getISO2('India') > IN
+CountryCodes.getISO2('IND') > IN
+CountryCodes.getISO2('91') > IN
+CountryCodes.getISO3('India') > IND
+CountryCodes.getISO3('In') > IND
+CountryCodes.getISO3('91') > IND
+CountryCodes.getPhoneCode('India') > 91
+CountryCodes.getPhoneCode('IND') > 91
 ```
 
 License
