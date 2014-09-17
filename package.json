@@ -1,6 +1,6 @@
 {
   "name": "country-codes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find country codes, country phone codes, ISO2 and ISO3 letter codes of countries",
   "scripts": {
     "test": "mocha"
