@@ -1,4 +1,4 @@
-Country Codes
+Country Codes [![Build Status](https://travis-ci.org/sripaulgit/country-codes.svg?branch=master)](https://travis-ci.org/sripaulgit/country-codes)
 =============
 
 Utility to fetch country codes viz ISO2, ISO3 and Phone code of all the countries listed in http://countrycode.org/.
