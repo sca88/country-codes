@@ -21,6 +21,7 @@ npm install countrycodes
 Examples
 -----
 ```sh
+CountryCodes.getAll() > Returns an array of 237 country information
 CountryCodes.getCountry('India') > {"countryName":"India","iso2":"IN","iso3":"IND","phoneCode":"91"}
 CountryCodes.getISO2('India') > IN
 CountryCodes.getISO2('IND') > IN
