@@ -1,6 +1,8 @@
 Country Codes [![Build Status](https://travis-ci.org/sripaulgit/country-codes.svg?branch=master)](https://travis-ci.org/sripaulgit/country-codes)
 =============
 
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Support us][gittip-image]][gittip-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url]
+
 Utility to fetch country codes viz ISO2, ISO3 and Phone code of all the countries listed in http://countrycode.org/.
 
 Exposes the below APIs:
