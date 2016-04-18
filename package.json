@@ -2,6 +2,7 @@
   "name": "countrycodes",
   "version": "0.0.5",
   "description": "Find country codes, country phone codes, ISO2 and ISO3 letter codes of countries",
+  "main": "countryCodes.js",
   "scripts": {
     "test": "mocha"
   },
@@ -14,7 +15,7 @@
 	"assert":"*"
   },
   "devDependencies":{
-	"mocha":"~1.21.4"  
+	"mocha":"~1.21.4"
   },
   "keywords": [
     "country",
